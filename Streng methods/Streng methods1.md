@@ -1,3 +1,4 @@
+```python
 name = "Bro"
 
 # طول السلسلة
@@ -29,3 +30,4 @@ print(name.replace("o", "a"))  # الطباعة: Bra
 
 # طباعة السلسلة ثلاث مرات متتالية
 print(name * 3)  # الطباعة: BroBroBro
+```
