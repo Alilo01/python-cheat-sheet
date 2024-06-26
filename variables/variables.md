@@ -1,4 +1,4 @@
-/* direction: ltr */
+/* direction: rtl */
 ```python
 # الأرقام الصحيحة (integers)
 age = 25
